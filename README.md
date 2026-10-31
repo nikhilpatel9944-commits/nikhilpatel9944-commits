@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Electronics%20Engineering&fontAlign=50&fontAlignY=35&color=0:000000,50:2b1055,100:000000&fontColor=ffffff&fontSize=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nikhil%20Patel&fontAlign=50&fontAlignY=35&color=0:000000,50:2b1055,100:000000&fontColor=ffffff&fontSize=55" />
 </p>
 
 <h2 align="center">Electronics Engineering Undergraduate | Python | Data Analysis</h2>
